@@ -1,2 +1,2 @@
-# cpp
-Projekt z cpp
+# Snake
+Projekt na zajęcia z C++
